@@ -4,3 +4,5 @@
 [![doc generation](https://github.com/TODO-3/TODO-4/actions/workflows/ci-sphinx.yaml/badge.svg?event=push)](https://github.com/TODO-3/TODO-4/actions/workflows/ci-sphinx.yaml)
 
 Please see the course website for the lab 4 [instructions](https://20eece3093c-24ss.github.io/graded_artifacts/lab_assignments/lab_4.html).
+
+![example event parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push)
