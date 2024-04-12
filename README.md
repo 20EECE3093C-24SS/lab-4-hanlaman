@@ -4,4 +4,4 @@
 
 Please see the course website for the lab 4 [instructions](https://20eece3093c-24ss.github.io/graded_artifacts/lab_assignments/lab_4.html).
 
-![example event parameter]([https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push](https://github.com/20EECE3093C-24SS/lab-4-hanlaman/actions))
+![example event parameter]([https://github.com/github/docs/actions/workflows/ci-pytest.yml/badge.svg?event=push])
